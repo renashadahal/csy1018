@@ -1,0 +1,9 @@
+body{margin:0;}
+header{}
+header div:first-child {background:lightskyblue;padding:2%;width:46%;float:left;} 
+header div:nth-child(2){background:lavender;padding:2%;width:46%;float:left;}
+.clear{
+	clear:both;
+}
+nav{background:#a7eeb9;}
+nav ul li{float: left;background:peachpuff ; padding:2% ;margin: 0.5%}
